@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   testMatch: ["**/*.(test|spec).(j|t)s?(x)"],
   moduleFileExtensions: ["js", "json", "node", "ts"],
   testEnvironment: "node",
